@@ -1,2 +1,3 @@
 # terraform_experiments
- Experimental work with terraform on GCP
+Experimental work with terraform on GCP
+Taken from CFT
